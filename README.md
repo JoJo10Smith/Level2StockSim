@@ -22,4 +22,8 @@ The graph will also update with the outstanding bids (buys) in red and the asks 
 
 ![Updating Ordergraph](https://github.com/JoJo10Smith/Level2StockSim/blob/main/Screenshot%20from%202024-05-23%2021-10-57.png) 
 
+Update: After getting feedback requests for additional features I have added a price-time graph of executed orders. This acts as the 'price' of the stock over time and you are able to see the change in price over time.
+
+![Stock chart](https://github.com/JoJo10Smith/Level2StockSim/blob/main/Screenshot%20from%202024-06-02%2016-56-34.png)
+
 Please feel free to leave any comments/ open an issue
